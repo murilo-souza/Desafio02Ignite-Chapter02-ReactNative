@@ -1,4 +1,5 @@
-<h1>Stream.Data</h1>
+<h1 align="center">Stream.Data</h1>
+<br/>
 
 ![Capa](https://user-images.githubusercontent.com/53982668/184542299-24b98c49-c6d1-49bf-9cba-d9127e28d846.png)
 
